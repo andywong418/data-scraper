@@ -1,0 +1,11 @@
+models/
+convolved_img_final/
+convolved_img_first/
+preview/
+image_sets/
+unlabelled_image_sets/
+validation/
+*.pyc
+final_filter_dir/
+first_layer_filter_dir
+graph_train_directory/
