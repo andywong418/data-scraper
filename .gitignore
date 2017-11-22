@@ -9,4 +9,3 @@ validation/
 final_filter_dir/
 first_layer_filter_dir
 graph_train_directory/
-*.json
